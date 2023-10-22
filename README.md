@@ -1,2 +1,1 @@
-# TicTacToe
-This is a tictactoe game that can be played with artificial intelligence.
+THIS IS A TICTACTOE GAME THAT CAN BE PLAYED WITH ARTIFICIAL INTELLIGENCE
